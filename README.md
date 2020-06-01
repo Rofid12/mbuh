@@ -1,2 +1,0 @@
-# mbuh
-Rofid.sh
